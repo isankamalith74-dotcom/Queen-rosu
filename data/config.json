@@ -1,9 +1,9 @@
 {
   "AUTOREAD": "false",
-  "AUTOTYPE": "false",
+  "AUTOTYPE": "true",
   "AUTORECORD": "false",
   "AUTORECORDTYPE": "false",
-  "AUTO_STATUS_REACT": "false",
+  "AUTO_STATUS_REACT": "true",
   "AUTO_STATUS_REPLY": "false",
   "AUTO_STATUS_MSG": "Viewed By Queen Riam",
   "ANTICALL": "decline",
